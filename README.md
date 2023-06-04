@@ -36,7 +36,7 @@
 | How to deploy and Install ?!                                                                                                                 | Name                        | Type          | Lowest-Price Plan                     | Deploy                                                  |
 | --------------------------------------------------------------------------------------------------------------- | -----------------           | ------------- | ------------------------------------- | ------------------------------------------------------- |
 | 🖥VPS                                                                  | Virtual Private Server      | VPS           | [google it](https://www.google.com/search?q=vps)                             | [see guide](vps-deployment.md)                               |
-| ![Heroku]                                                            | Heroku                      | Container     | Free, 1 CPU, 512 MB RAM,375gb Storage               | [see guide](heroku-deployment.md)                |
+| [![Name](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/56799u/leech-bot-heroku) Heroku                      | Container     | Free, 1 CPU, 512 MB RAM,375gb Storage               | [see guide](heroku-deployment.md)                |
 
 ---
 
